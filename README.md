@@ -1,2 +1,2 @@
 # URI
-Resolutions
+Resolutions in python
